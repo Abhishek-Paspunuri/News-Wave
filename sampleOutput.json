@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Le flash sports du 7 février",
+            "description": "Retrouvez l'essentiel de l'actualité sportive avec votre Flash L'Équipe quotidien.",
+            "url": "https://www.lequipe.fr/Tous-sports/Actualites/Le-flash-sports-du-7-fevrier/1379317",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/-/1500000001745637/0:0,826:551-640-427-75/7933b.jpg",
+            "publishedAt": "2023-02-06T23:15:00+00:00",
+            "content": "Alexis Pinturault entame ses Mondiaux à domicile ; l'OM et le PSG préparent un nouveau classique (mercredi, 21h10) ; le FC Metz s'accroche à son rêve de montée en Ligue 1, et L'Équipe s'interroge sur… [+79 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Mike ReissESPN Staff Writer ",
+            "title": "Tom Brady says he'll start with Fox Sports in 2024",
+            "description": "Tom Brady said on FS1's \"The Herd with Colin Cowherd\" that he'll begin his role as a broadcaster with Fox Sports in the fall of 2024.",
+            "url": "http://espn.go.com/nfl/story/_/id/35602512/tom-brady-says-start-fox-sports-2024",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0112%2Fr1116859_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-02-06T19:12:00Z",
+            "content": "Quarterback Tom Brady, who announced his retirement Feb. 1, said Monday that he won't begin his work as a sports broadcaster at Fox Sports until the fall of 2024.\r\n\"That's great for me,\" Brady in an … [+2023 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "Greg Auman",
+            "title": "Tom Brady will join FOX's NFL broadcasts in Fall 2024",
+            "description": "Tom Brady has retired from the NFL after 23 years, but he's going to take a year off before he begins his next chapter in the broadcast booth with FOX Sports.",
+            "url": "http://www.foxsports.com/stories/nfl/tom-brady-will-join-foxs-nfl-broadcasts-in-fall-2024",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/02/1408/814/06.02.22_Brady-explains-why-hes-going-into-broadcasting-once-he-retires_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2023-02-06T19:04:05Z",
+            "content": "Tom Brady has retired from the NFL after 23 seasons, but he's going to take a year off before he begins his next chapter in the broadcast booth with FOX Sports.\r\n\"I want to be great at what I do, and… [+3878 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+            "urlToImage": null,
+            "publishedAt": "2022-12-01T18:52:49.4768049Z",
+            "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "☄️ NEW ANIME JUST DROPPED ☄️",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/289173-ja-vs-zion-anime",
+            "urlToImage": null,
+            "publishedAt": "2022-11-14T22:07:16.2323649Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2022-08-30T16:37:43.8583104Z",
+            "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Daily Briefing",
+            "description": "The day's top stories, from sports to movies to politics to world events.",
+            "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+            "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+            "publishedAt": "2021-08-15T15:35:07+00:00",
+            "content": "The day's top stories, from sports to movies to politics to world events."
+        }
+    ]
+}
